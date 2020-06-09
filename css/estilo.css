@@ -1,0 +1,62 @@
+
+/*
+* desarrollos.php y comunidades.php
+*/
+.externo{
+    display: inline-block;
+    width: 22em;
+    margin: 0 auto;
+    margin-top: 1em;
+    text-align: center;
+}
+
+/*
+* MENUS
+*/
+.btn btn-default{
+    color: #244017;
+}
+
+/*
+* hojas de vida
+*/
+.datos{
+    display: inline-block;
+    width: 40em;
+    margin: 0 auto;
+    text-align: center;
+}
+.foto{
+    display: inline-block;
+    width: 25em;
+    margin: 0 auto;
+    text-align: center;
+}
+
+/*
+* noticias.php
+*/
+.externa{
+    display: inline-block;
+    width: 33.5em;
+    height: 22em;
+    margin: 0 auto;
+    text-align: center;
+}
+
+/*
+* index.php
+*/
+div.adicionales{
+    margin: 3em;
+}
+h2.titulo{
+    color: #272727;
+}
+div.otros{
+    display: inline-block;
+    width: 30em;
+    margin: 0 auto;
+    text-align: center;
+    background-color: #c9c4c4;
+}
